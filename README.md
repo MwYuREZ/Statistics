@@ -1,4 +1,4 @@
-# Statistics
-
-2024 1131
-曾意儒 統計學
+# Statistic
+1131  
+2024 Fall  
+統計學 曾意儒
